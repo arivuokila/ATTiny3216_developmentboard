@@ -14,3 +14,6 @@ Board: ATTiny3216
 port: the SAMD11C14's serial port.
 Programmer: SerialUPDI - SLOW
 
+First burn the bootloader and then you are able to upload programs to it. Settings remain the same for both.
+
+![image](./UPDI_Programming_ArduinoIDE.png)
