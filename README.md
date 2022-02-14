@@ -19,3 +19,6 @@ Programmer: SerialUPDI - SLOW
 First burn the bootloader and then you are able to upload programs to it. Settings remain the same for both.
 
 ![image](./UPDI_Programming_ArduinoIDE.png)
+
+[Pinout](https://github.com/SpenceKonde/megaTinyCore/blob/master/megaavr/extras/ATtiny_x16.md) from SpenceKonde's repo
+
