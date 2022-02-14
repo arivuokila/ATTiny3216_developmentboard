@@ -20,5 +20,7 @@ First burn the bootloader and then you are able to upload programs to it. Settin
 
 ![image](./UPDI_Programming_ArduinoIDE.png)
 
-[Pinout](https://github.com/SpenceKonde/megaTinyCore/blob/master/megaavr/extras/ATtiny_x16.md) from SpenceKonde's repo
+[Pinout](https://github.com/SpenceKonde/megaTinyCore/blob/master/megaavr/extras/ATtiny_x16.md) from SpenceKonde's repo. You can find more details related to ATTiny3216 behind that link.
+
+![image](./ATtiny_x16.png)
 
