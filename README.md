@@ -1,4 +1,4 @@
-# ATTiny3216_developmentboard
+# ATTiny3216_development board
 
 A simple ATTiny3216 development board made with Kicad 6.0.
 
