@@ -11,7 +11,9 @@ Arduino IDE if using [megaTinyCore](https://github.com/SpenceKonde/megaTinyCore)
 Select from Tools:
 
 Board: ATTiny3216
-port: the SAMD11C14's serial port.
+
+Port: the SAMD11C14's serial port.
+
 Programmer: SerialUPDI - SLOW
 
 First burn the bootloader and then you are able to upload programs to it. Settings remain the same for both.
